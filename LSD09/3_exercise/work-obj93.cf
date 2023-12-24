@@ -1,0 +1,13 @@
+v 4
+file . "tb_3_ex.vhd" "25d633ad176c18a9a10c7c92a25a249a37ef5966" "20230509014754.595":
+  entity tb_3_ex at 1( 0) + 0 on 17;
+  architecture teste of tb_3_ex at 7( 82) + 0 on 18;
+file . "big_and.vhd" "d58f881f85380f237b136586958ad71fc1e35076" "20230509014724.724":
+  entity big_and at 1( 0) + 0 on 13;
+  architecture and_architecture of big_and at 9( 145) + 0 on 14;
+file . "big_or.vhd" "6ed0684e4ab427a98c1dfaf8f7e90a58057e951c" "20230509014716.621":
+  entity big_or at 1( 0) + 0 on 11;
+  architecture or_architecture of big_or at 9( 143) + 0 on 12;
+file . "3_ex.vhd" "abe4ff5c6ff3def2663ba48ae74e68c809011c30" "20230509014739.915":
+  entity ex_3a at 3( 33) + 0 on 15;
+  architecture architectue_estrutural of ex_3a at 13( 203) + 0 on 16;

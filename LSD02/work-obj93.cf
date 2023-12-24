@@ -1,0 +1,7 @@
+v 4
+file . "tb_somador.vhd" "af16ed8a463a798e39b447a19727bb6565d06141" "20230717143442.757":
+  entity tb_somador at 1( 0) + 0 on 117;
+  architecture teste of tb_somador at 7( 82) + 0 on 118;
+file . "somador2.vhd" "1ebddb6db907cd8acd7d7be29a6315c5704c72dd" "20230717143442.654":
+  entity somador at 4( 173) + 0 on 115;
+  architecture fluxo_de_dados of somador at 13( 378) + 0 on 116;
