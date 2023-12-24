@@ -1,0 +1,7 @@
+v 4
+file . "bin_to_hex.vhd" "62156d7cc005c1d3f572775c9230c41f68413ffa" "20230522192804.939":
+  entity bin_to_hex at 1( 0) + 0 on 21;
+  architecture behavioral of bin_to_hex at 12( 248) + 0 on 22;
+file . "tb_bin_to_hex.vhd" "938f4c781d3c9c100011add2a91157d8c42e103c" "20230522192808.577":
+  entity tb_bin_to_hex at 1( 0) + 0 on 23;
+  architecture behavioral of tb_bin_to_hex at 7( 94) + 0 on 24;

@@ -1,0 +1,107 @@
+$date
+  Mon May 22 16:28:20 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module tb_bin_to_hex $end
+$var reg 4 ! bin[3:0] $end
+$var reg 7 " hex[6:0] $end
+$var reg 1 # estado_display $end
+$scope module dut $end
+$var reg 4 $ bin[3:0] $end
+$var reg 7 % hex[6:0] $end
+$var reg 1 & estado_display $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+b0000001 "
+1#
+b0000 $
+b0000001 %
+1&
+#10000000
+b0001 !
+b1001111 "
+b0001 $
+b1001111 %
+#20000000
+b0010 !
+b0010010 "
+b0010 $
+b0010010 %
+#30000000
+b0011 !
+b0000110 "
+b0011 $
+b0000110 %
+#40000000
+b0100 !
+b1001100 "
+b0100 $
+b1001100 %
+#50000000
+b0101 !
+b0100100 "
+b0101 $
+b0100100 %
+#60000000
+b0110 !
+b0100000 "
+b0110 $
+b0100000 %
+#70000000
+b0111 !
+b0001111 "
+b0111 $
+b0001111 %
+#80000000
+b1000 !
+b0000000 "
+b1000 $
+b0000000 %
+#90000000
+b1001 !
+b0000100 "
+b1001 $
+b0000100 %
+#100000000
+b1010 !
+b0001000 "
+b1010 $
+b0001000 %
+#110000000
+b1011 !
+b1100000 "
+b1011 $
+b1100000 %
+#120000000
+b1100 !
+b0110001 "
+b1100 $
+b0110001 %
+#130000000
+b1101 !
+b1000010 "
+b1101 $
+b1000010 %
+#140000000
+b1110 !
+b0110000 "
+b1110 $
+b0110000 %
+#150000000
+b1111 !
+b0111000 "
+b1111 $
+b0111000 %
+#160000000

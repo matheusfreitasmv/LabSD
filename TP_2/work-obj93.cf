@@ -1,0 +1,4 @@
+v 4
+file . "semaforo.vhd" "0899dfb5aef25773b6a2cda5b3001a09c1eb5eff" "20230529231319.879":
+  entity semaforofsm at 1( 0) + 0 on 11;
+  architecture behavioral of semaforofsm at 14( 490) + 0 on 12;

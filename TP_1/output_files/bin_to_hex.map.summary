@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Mon May 22 20:39:42 2023
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : bin_to_hex
+Top-level Entity Name : bin_to_hex
+Family : MAX 10
+Total logic elements : 7
+    Total combinational functions : 7
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 11
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
