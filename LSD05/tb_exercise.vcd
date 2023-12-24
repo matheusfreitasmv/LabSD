@@ -1,0 +1,42 @@
+$date
+  Sun Apr 02 23:59:41 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module tb_exercise $end
+$var reg 4 ! x[3:0] $end
+$var reg 8 " saida[7:0] $end
+$scope module tb_instancia $end
+$var reg 4 # x[3:0] $end
+$var reg 8 $ saida[7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+b00000000 "
+b0000 #
+b00000000 $
+#10000000
+b0100 !
+b01011000 "
+b0100 #
+b01011000 $
+#20000000
+b1111 !
+b00000000 "
+b1111 #
+b00000000 $
+#30000000
+b0000 !
+b0000 #

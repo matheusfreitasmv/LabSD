@@ -1,0 +1,7 @@
+v 4
+file . "case_statement.vhd" "57214817a1702159973c2d2cbf9988a0c2adbec6" "20230717144628.978":
+  entity in_out at 5( 102) + 0 on 27;
+  architecture case_statement of in_out at 17( 292) + 0 on 28;
+file . "tb_case.vhd" "d1a49e74cab0180894a2620fae65921010c32ee9" "20230717144629.011":
+  entity tb_case at 1( 0) + 0 on 29;
+  architecture teste of tb_case at 7( 82) + 0 on 30;

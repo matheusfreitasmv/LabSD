@@ -1,0 +1,7 @@
+v 4
+file . "tb_mean_4_clocks.vhd" "c0bb98969a14c7a8eb15f3caa39e8892d28e237f" "20230425010256.296":
+  entity tb_mean_4_clocks at 5( 207) + 0 on 15;
+  architecture tb_architecture of tb_mean_4_clocks at 12( 343) + 0 on 16;
+file . "mean_4_clocks.vhd" "8809b07fefbf749898602583a30aad5d29067034" "20230425002908.297":
+  entity mean_4_clocks at 18( 778) + 0 on 13;
+  architecture arch of mean_4_clocks at 40( 1426) + 0 on 14;
